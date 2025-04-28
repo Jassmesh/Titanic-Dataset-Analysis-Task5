@@ -44,7 +44,7 @@ Titanic Dataset Analysis Report.pdf: PDF Report of EDA performed
 Clone the repository:
 Copy
 Edit
-git clone https://github.com/Jassmesh/Task5_DA.git
+git clone https://github.com/Jassmesh/Titanic-Dataset-Analysis-Task5/Task5_DA.git
 
 ## Navigate to the project directory:
 Copy
