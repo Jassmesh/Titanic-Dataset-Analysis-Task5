@@ -34,11 +34,12 @@ Embarked: Port of embarkation (C = Cherbourg; Q = Queenstown; S = Southampton).
 Survived: Survival status (0 = No, 1 = Yes).
 
 ## Project Structure
+| **File/Folder**             | **Description**                                                      |
+|-----------------------------|----------------------------------------------------------------------|
+| `Task5_DA.ipynb`          | Jupyter notebook containing the full EDA process with data visualizations and insights. |
+| `train.csv`           |  Excel containing the Titanic dataset CSV file.                 |
+| `Titanic Dataset Analysis Report.pdf`                      | PDF Report of EDA performed                      |
 
-Task5_DA.ipynb: Jupyter notebook containing the full EDA process with data visualization and insights.
-train.csv: Excel containing the Titanic dataset CSV file.
-train.csv: Excel containing the Titanic dataset CSV file.
-Titanic Dataset Analysis Report.pdf: PDF Report of EDA performed
 
 ## Installation
 Clone the repository:
